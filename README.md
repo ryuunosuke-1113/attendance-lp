@@ -14,6 +14,7 @@ https://（ここにGitHub PagesのURLを貼る）
 ## 📸 スクリーンショット
 
 ![トップ画面](images/screenshot.png)
+![トップ画面](images/screenshot1.png)
 
 ---
 
