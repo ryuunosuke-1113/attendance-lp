@@ -7,7 +7,7 @@
 
 ## 🔗 デモURL
 
-https://（ここにGitHub PagesのURLを貼る）
+https://ryuunosuke-1113.github.io/attendance-lp/
 
 ---
 
